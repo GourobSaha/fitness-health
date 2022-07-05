@@ -124,3 +124,23 @@ body {
   font-size: 20px;
   color: rgb(72, 72, 72);
 }
+.foot {
+  height: 250px;
+  padding-top: 40px;
+  background-color: #0b0d17;
+  text-align: center;
+}
+
+.foot p {
+  margin-top: 30px;
+  color: rgba(255, 255, 255, 0.599);
+  font-size: 20px;
+}
+#fresh {
+  color: rgb(91, 91, 91);
+  font-size: 40px;
+}
+#eat {
+  font-size: 40px;
+  color: orangered;
+}
