@@ -68,3 +68,59 @@ body {
   font-size: 20px;
   color: rgb(72, 72, 72);
 }
+.recipies {
+  text-align: center;
+}
+.recipies h1 {
+  font-size: 50px;
+  color: rgb(72, 72, 72);
+}
+.recipies p {
+  font-size: 20px;
+  color: rgb(72, 72, 72);
+}
+.half-width {
+  width: 50%;
+  padding-left: 40px;
+}
+.half-width img {
+  width: 100%;
+}
+.item {
+  margin: 30px;
+  padding: 2%;
+  box-shadow: 0px 4px 30px rgba(70, 36, 14, 0.247);
+  border-radius: 50px;
+  color: rgb(72, 72, 72);
+}
+.item img {
+  height: 70%;
+}
+.recipe-item {
+  padding-left: 5%;
+  padding-right: 5%;
+  display: flex;
+  margin-bottom: 50px;
+}
+.item p {
+  font-size: 20px;
+}
+.follower {
+  text-align: center;
+  width: 33.3%;
+}
+.f-shadow {
+  box-shadow: 0px 4px 30px rgba(70, 36, 14, 0.247);
+  border-radius: 30px;
+  margin-left: 6.7%;
+  margin-right: 6.7%;
+  margin-bottom: 80px;
+}
+.f-shadow h1 {
+  font-size: 50px;
+  color: rgb(72, 72, 72);
+}
+.f-shadow p {
+  font-size: 20px;
+  color: rgb(72, 72, 72);
+}
